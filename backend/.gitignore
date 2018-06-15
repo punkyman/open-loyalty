@@ -17,3 +17,5 @@
 app/var/jwt/
 bin/symfony_requirements
 web/config.php
+composer.phar
+
